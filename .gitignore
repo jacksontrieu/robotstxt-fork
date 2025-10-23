@@ -1,5 +1,9 @@
 c-build/*
-bazel-*
+
+/bazel-bin
+/bazel-out
+/bazel-robotstxt-fork
+/bazel-testlogs
 
 MODULE.bazel.lock
 
